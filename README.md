@@ -6,6 +6,8 @@ Your beloved English Grandma, Henrietta Talia Margaret Lillyanna, loves her reci
 She spent a lifetime collecting incredible and unique meals and she asks you to help to create a digital collection.
 Make a website with a menu and pages for each recipes, lets start with 3 of them.
 
+![granda's recepies](https://user-images.githubusercontent.com/77456859/122539039-d590a980-d02f-11eb-9606-6983d92c8fb0.PNG)
+
 ## What are you going to learn?
 
 - Creating a basic HTML website
